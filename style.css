@@ -1,0 +1,47 @@
+body {
+	background-color: #000000;
+	font-family: -apple-system, sans-serif;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	margin: 0
+}
+.card {
+	background-color: lclcle;
+	border-radius: 40px;
+	padding: 30px;
+	max-width: 350px;
+	width: 100%;
+	text-align: center;
+}
+.headline, .aboutme, .skills, .project {
+	color: #ffffff;
+	font-size: 22px;
+	margin-top: 30px;
+}
+h3, .status {
+	color: 8e8e93;
+	font-size: 16px;
+	font-weight: normal;
+}
+.avatar {
+	border-radius: 22%;
+	margin-top: 15px;
+	border: 0.5px solid #3a3a3c;
+}
+p {
+	color: #f2f2f7;
+	font-size: 15px
+	line-height: 1.4;
+	margin: 10px 0;
+}
+.tglink {
+	display: block;
+	background-color: 007aff;
+	color: white;
+	text-decoration: none;
+	padding: 14px;
+	border-radius: 14px;
+	font-weight: 600;
+	margin-top: 25px;
+}
