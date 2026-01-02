@@ -45,3 +45,13 @@ p {
 	font-weight: 600;
 	margin-top: 25px;
 }
+.git {
+	display: block;
+	background-color: 007aff;
+	color: white;
+	text-decoration: none;
+	padding: 14px;
+	border-radius: 14px;
+	font-weight: 600;
+	margin-top: 25px;
+}
